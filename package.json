@@ -12,7 +12,7 @@
     "node-cron": "^3.0.2",
     "axios": "^1.4.0",
     "@octokit/rest": "^20.0.1",
-    "ytdl-core": "^4.11.5"
+    "@distube/yt-dlp": "^1.0.4"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
